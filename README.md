@@ -11,7 +11,7 @@ The objective of this project is to **predict rainfall** based on daily weather 
 - Data Preprocessing & Cleaning
 - Exploratory Data Analysis (EDA)
 - Model Building (Traditional ML, Ensemble, Deep Learning)
-- 
+  
 ---
 
 ## Dataset
